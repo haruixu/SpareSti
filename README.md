@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://gitlab.stud.idi.ntnu.no/idatt2106-gruppe-2/idatt2106_2024_02_backend" target="_blank">
+    <a href="https://gitlab.stud.idi.ntnu.no/idatt2106-gruppe-2/idatt2106_2024_02" target="_blank">
         <img width="40%" src="https://cdn.discordapp.com/attachments/1229758495767658566/1235997795555475529/image.png?ex=66366826&is=663516a6&hm=45dc1766b8463011e2a354bbfe837cd8da5f9f8150cc68fde30f66cc5230c252&">
     </a>
     </p>
