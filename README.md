@@ -4,7 +4,7 @@
     </a>
     </p>
 <h1 align="center">
-                Sparesti backend 
+                Sparesti 
 </h1>
 
 ## 🚀 Getting started
