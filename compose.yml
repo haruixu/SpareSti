@@ -24,7 +24,7 @@ services:
 
   app-backend:
     container_name: sparesti-backend
-    image: sparestigruppe2/idatt2106_2024_02_backend-app:latest
+    image: sparestigruppe2/idatt2106_2024_02_backend-app:production
     depends_on:
       mysql:
         condition: service_healthy
