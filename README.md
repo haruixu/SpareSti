@@ -64,7 +64,7 @@ for the ease of the examiners we have chosen to do it this way.
 ```
 make run
 ```
-The application is now running on port 8080.
+The application is now running on port [5173](http://localhost:5173).
 
 > **NOTE**: If you don't have Make installed, use the following command instead:
 ```
