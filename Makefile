@@ -1,6 +1,6 @@
 run:
 	make destroy
-	docker compose up --build
+	docker compose up
 
 destroy:
 	docker compose down
