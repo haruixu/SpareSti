@@ -15,8 +15,8 @@ This joint repository is made to make running of our application simpler.
 It does not contain any source code. 
 To see our source code navigate to the respective repositories:
 
-- [Frontend](https://gitlab.stud.idi.ntnu.no/idatt2106-gruppe-2/idatt2106_2024_02_frontend)
-- [Backend](https://gitlab.stud.idi.ntnu.no/idatt2106-gruppe-2/idatt2106_2024_02_backend)
+- [Frontend](https://github.com/haruixu/SpareStiFrontend)
+- [Backend](https://github.com/haruixu/SpareStiBackend)
 
 ### ⚙ Setup
 #### The following setup is mandatory before running the project
